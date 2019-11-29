@@ -1,0 +1,92 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=VU Analyser Pair
+*Date=15:39:51
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;100k;THT;20.3073;-40.19;90;Bottom;RL1-100K
+2;;THT;79.2353;-42.067;0;Bottom;POWER
+3;;THT;27.9273;-12.25;0;Bottom;J8
+4;;;38.2235;-4.49541;0;Bottom;TXT16
+5;;;17.9612;-14.7996;-90;Bottom;TXT12
+6;;;74.1474;-26.334;0;Bottom;TXT5
+7;100k;THT;20.3073;-27.49;90;Bottom;RL2-100K
+8;;;53.532;-40.0735;-90;Bottom;TXT12
+9;100k;THT;53.3273;-40.19;90;Bottom;RR1-100K
+10;;;69.6962;-16.7046;0;Bottom;TXT13
+11;;;51.0757;-14.8187;-90;Bottom;TXT12
+12;;;22.5376;-47.6171;0;Bottom;TXT7
+13;;THT;35.5473;-38.92;0;Bottom;
+14;;THT;45.72;-26.2433;0;Bottom;J3
+15;;4Ucon 08780 [THT];80.6868;-17.2482;180;Bottom;AUDIO INPUT
+16;;;62.0637;-4.25972;0;Bottom;TXT14
+17;;;61.4693;-6.60585;0;Bottom;TXT14
+18;100nF;100 mil [THT, multilayer];69.8421;-14.79;180;Bottom;CAP-L1
+19;;;83.2044;-17.3543;-90;Bottom;TXT11
+20;;THT;7.60732;-30.03;0;Bottom;J13
+21;;THT;33.0073;-38.92;0;Bottom;
+22;;;74.1275;-44.1629;0;Bottom;TXT3
+23;;THT;13.9573;-42.73;-90;Bottom;+5V
+24;;THT;13.9573;-40.19;-90;Bottom;GND
+25;;;50.8866;-43.1617;-90;Bottom;TXT3
+26;;;65.1678;-9.28284;0;Bottom;TXT14
+27;;THT;27.9273;-38.92;0;Bottom;J10
+28;;;55.6191;-47.515;0;Bottom;TXT7
+29;;;12.9695;-45.2483;0;Bottom;TXT9
+30;;;69.8574;-21.8912;0;Bottom;TXT13
+31;;;45.9543;-47.6531;0;Bottom;TXT8
+32;;THT;27.9273;-24.95;0;Bottom;J9
+33;;THT;79.2353;-29.367;0;Bottom;I2C
+34;;;-6.29677;-50.4763;-90;Bottom;Ruler2
+35;;;53.2954;-14.8635;-90;Bottom;TXT12
+36;4.7k;THT;53.3273;-14.7901;90;Bottom;RR2-5K
+37;4.7k;THT;20.3073;-14.79;-90;Bottom;RL2-5K
+38;;;74.4615;-39.4939;0;Bottom;TXT4
+39;;;20.4825;-27.2307;-90;Bottom;TXT12
+40;;;46.0511;-45.0111;0;Bottom;TXT9
+41;;;50.3262;5.95975;0;Bottom;Ruler1
+42;;THT;60.96;-12.2733;0;Bottom;J7
+43;;;16.3512;-5.32757;0;Bottom;IMG1
+44;;THT;46.99;-42.7533;-90;Bottom;+5V
+45;;;74.0101;-31.5547;0;Bottom;TXT6
+46;;;12.8727;-47.8904;0;Bottom;TXT8
+47;;;13.8662;-38.0642;0;Bottom;TXT4
+48;4.7k;THT;17.7673;-14.79;-90;Bottom;RL1-5K
+49;;;67.8081;-7.65372;0;Bottom;TXT14
+50;4.7k;THT;50.7873;-14.79;-90;Bottom;RR1-5K
+51;;;20.5117;-40.3599;-90;Bottom;TXT12
+52;;;47.8826;-37.9195;0;Bottom;TXT4
+53;100nF;100 mil [THT, multilayer];69.8421;-19.87;180;Bottom;CAP-R1
+54;;THT;60.96;-24.9733;0;Bottom;J6
+55;;;20.5228;-14.7212;-90;Bottom;TXT12
+56;;;5.06732;-52.89;0;Bottom;Hole2
+57;;;17.7673;-30.0216;0;Bottom;Arduino Nano
+58;;;41.2581;-4.60405;0;Bottom;TXT17
+59;;THT;33.0073;-21.14;0;Bottom;
+60;;THT;35.5473;-21.14;0;Bottom;
+61;;THT;46.99;-40.2133;-90;Bottom;GND
+62;100k;THT;53.3273;-27.49;90;Bottom;RR2-100K
+63;;;83.4995;-42.1057;-90;Bottom;TXT1
+64;;;47.9464;-25.9999;90;Bottom;TXT18
+65;;;78.7273;-4.63005;0;Bottom;Hole3
+66;;;53.5026;-27.1603;-90;Bottom;TXT12
+67;;THT;12.6873;-26.22;0;Bottom;J2
+68;;;34.789;-34.2785;0;Bottom;TXT10
+69;;;5.06732;-4.63004;0;Bottom;Hole1
+70;;THT;40.6273;-30.03;0;Bottom;J12
+71;;;83.4795;-29.1519;-90;Bottom;TXT2
+72;;;50.7873;-30.0216;0;Bottom;Arduino Nano
+73;;;61.2641;-5.48922;0;Bottom;TXT14
+74;;;14.8795;-25.8653;90;Bottom;TXT18
+75;;;78.7273;-52.89;0;Bottom;Hole4
+76;;;17.7223;-43.3738;-90;Bottom;TXT3
+77;;THT;60.96;-38.9433;0;Bottom;J5
